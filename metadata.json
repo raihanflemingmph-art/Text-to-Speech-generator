@@ -1,0 +1,5 @@
+{
+  "name": "TTS-R 2.0",
+  "description": "A robust Text-to-Speech application using Gemini 2.5 Flash TTS with customizable voice descriptions and artist selection.",
+  "requestFramePermissions": []
+}
